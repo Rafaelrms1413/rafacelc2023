@@ -1,7 +1,21 @@
 h1 {
-    background-color: aqua;
+    background-color: rgb(55, 255, 0);
     text-align: center;
 }
 
-p {text-align: center;
+p {
+    text-align: center;
 }
+
+strong{
+    font-size: larger;
+}
+body {
+    background-color: #1c1c1c; /* Dark background color */
+    background-image: url("https://img.freepik.com/vetores-premium/padrao-sem-emenda-de-camuflagem_264223-7.jpg"); /* Replace with your QSMP background image */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #edf7d6ce; /* Text color for better visibility */
+  }
