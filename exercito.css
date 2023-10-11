@@ -1,1 +1,18 @@
+h1 {
+    background-color: rgb(24, 97, 3);
+    text-align: center}
 
+strong{
+    font-size: larger;
+
+}
+body {
+    background-color: #1c1c1c; /* Dark background color */
+    background-image: url("http://www.cesariolange.sp.gov.br/wp-content/uploads/2017/08/brasao-exercito-brasileiro.jpg"); /* Replace with your QSMP background image */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #edf7d6ce; /* Text color for better visibility */
+  }
+.foto1 {text-align: center;}
