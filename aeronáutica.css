@@ -1,1 +1,19 @@
+h1 {
+    background-color: hsl(247, 94%, 13%);
+    text-align: center}
+
+strong{
+    font-size: larger;
+
+}
+body {
+    background-color: #1c1c1c; /* Dark background color */
+    background-image: url("https://img.elo7.com.br/product/main/3322732/matrizes-de-bordados-forca-aerea-forca-aerea.jpg"); /* Replace with your QSMP background image */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(255, 255, 255); /* Text color for better visibility */
+  }
+.foto1 {text-align: center;}
 
